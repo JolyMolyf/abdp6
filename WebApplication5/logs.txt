@@ -1,0 +1,4 @@
+GET
+/weatherforecast
+
+Microsoft.AspNetCore.Http.QueryCollection

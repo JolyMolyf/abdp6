@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Microsoft SQL Server jTDS - 2019SBD@db-mssql.pjwstk.edu.pl" uuid="ffadbd6d-b9fd-4c3d-91e5-7e987f806c5b">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MSSQL" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>s18935</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Microsoft SQL Server (jTds) - 2019SBD@db-mssql.pjwstk.edu.pl" uuid="42461c0b-c89c-4c67-b130-0fc3340f42f6">
+      <database-info product="Microsoft SQL Server" version="13.00.1742" jdbc-version="3.0" driver-name="jTDS Type 4 JDBC Driver for MS SQL Server and Sybase" driver-version="1.3.1" dbms="MSSQL" exact-version="13.0.1742" exact-driver-version="1.3">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>s18935</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="database" qname="@">
+            <node kind="schema" qname="@" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+  </component>
+</project>

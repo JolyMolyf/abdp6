@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Microsoft SQL Server jTDS - 2019SBD@db-mssql.pjwstk.edu.pl" uuid="ffadbd6d-b9fd-4c3d-91e5-7e987f806c5b">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://db-mssql.pjwstk.edu.pl;database=2019SBD</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Microsoft SQL Server (jTds) - 2019SBD@db-mssql.pjwstk.edu.pl" uuid="42461c0b-c89c-4c67-b130-0fc3340f42f6">
+      <driver-ref>sqlserver.jtds</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sqlserver://db-mssql.pjwstk.edu.pl/2019SBD</jdbc-url>
+    </data-source>
+  </component>
+</project>

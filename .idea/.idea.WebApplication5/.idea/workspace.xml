@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55ab4abc-b582-4280-9ad9-22b011a95d1e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Microsoft SQL Server (jTds) - 2019SBD@db-mssql.pjwstk.edu.pl" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Microsoft SQL Server (jTds) - 2019SBD@db-mssql.pjwstk.edu.pl" type="feb32156:DbDataSourceImpl" />
+        <item name="2019SBD: database" type="ccb7ac2a:MsImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Microsoft SQL Server (jTds) - 2019SBD@db-mssql.pjwstk.edu.pl" type="feb32156:DbDataSourceImpl" />
+        <item name="2019SBD: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="s18935: schema" type="2865ee2e:MsImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Microsoft SQL Server (jTds) - 2019SBD@db-mssql.pjwstk.edu.pl" type="feb32156:DbDataSourceImpl" />
+        <item name="2019SBD: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="s18935: schema" type="2865ee2e:MsImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Microsoft SQL Server (jTds) - 2019SBD@db-mssql.pjwstk.edu.pl" type="feb32156:DbDataSourceImpl" />
+        <item name="2019SBD: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="s18935: schema" type="2865ee2e:MsImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="Student: table" type="63ab2ba1:MsImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Microsoft SQL Server jTDS - 2019SBD@db-mssql.pjwstk.edu.pl" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WebApplication5/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication5/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication5/Controllers/WeatherForecastController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication5/Services/dbService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication5/MidlleWare/Midleware.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ffadbd6d-b9fd-4c3d-91e5-7e987f806c5b/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/42461c0b-c89c-4c67-b130-0fc3340f42f6/console_1.sql" />
+        <option value="$PROJECT_DIR$/WebApplication5/dbService.cs" />
+        <option value="$PROJECT_DIR$/WebApplication5/Startup.cs" />
+        <option value="$PROJECT_DIR$/WebApplication5/Services/dbService.cs" />
+        <option value="$PROJECT_DIR$/WebApplication5/MidlleWare/Midleware.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aDcoWTKYWhqT6MncdM9Md8wNQ1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver&#10;sqlserver.jtds" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.WebApplication5">
+    <configuration name="WebApplication5" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/WebApplication5/WebApplication5.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="WebApplication5" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplication5: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/WebApplication5/WebApplication5.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:Microsoft SQL Server (jTds) - 2019SBD@db-mssql.pjwstk.edu.pl" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:Microsoft SQL Server (jTds) - 2019SBD@db-mssql.pjwstk.edu.pl" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@1d18312a" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:Microsoft SQL Server jTDS - 2019SBD@db-mssql.pjwstk.edu.pl" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:Microsoft SQL Server jTDS - 2019SBD@db-mssql.pjwstk.edu.pl" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@6a8c8fdf" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55ab4abc-b582-4280-9ad9-22b011a95d1e" name="Default Changelist" comment="" />
+      <created>1586273780143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586273780143</updated>
+      <workItem from="1586273783234" duration="3610000" />
+      <workItem from="1586283655247" duration="5631000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="560" y="265" key="#SQL_Dialects" timestamp="1586284754445">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="560" y="265" key="#SQL_Dialects/0.0.1920.1200@0.0.1920.1200" timestamp="1586284754445" />
+    <state x="560" y="265" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586284833852">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="560" y="265" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1586284833852" />
+    <state width="1878" height="344" key="GridCell.Tab.0.bottom" timestamp="1586305043883">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="916" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1586283464963" />
+    <state width="1878" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1586305043883" />
+    <state width="1878" height="344" key="GridCell.Tab.0.bottom/0.23.1920.1097@0.23.1920.1097" timestamp="1586298769351" />
+    <state width="1878" height="344" key="GridCell.Tab.0.center" timestamp="1586305043882">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="916" height="324" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1586283464963" />
+    <state width="1878" height="344" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1586305043882" />
+    <state width="1878" height="344" key="GridCell.Tab.0.center/0.23.1920.1097@0.23.1920.1097" timestamp="1586298769350" />
+    <state width="1878" height="344" key="GridCell.Tab.0.left" timestamp="1586305043882">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="916" height="324" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1586283464963" />
+    <state width="1878" height="344" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1586305043882" />
+    <state width="1878" height="344" key="GridCell.Tab.0.left/0.23.1920.1097@0.23.1920.1097" timestamp="1586298769350" />
+    <state width="1878" height="344" key="GridCell.Tab.0.right" timestamp="1586305043883">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="916" height="324" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1586283464963" />
+    <state width="1878" height="344" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1586305043883" />
+    <state width="1878" height="344" key="GridCell.Tab.0.right/0.23.1920.1097@0.23.1920.1097" timestamp="1586298769351" />
+    <state x="461" y="239" key="SettingsEditor" timestamp="1586284711058">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="461" y="239" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1586284711058" />
+  </component>
+</project>
